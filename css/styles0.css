@@ -1,0 +1,18 @@
+.padre {
+
+  margin: auto;
+  text-align: center;
+  background-color: brown;
+  width: 50%
+
+}
+
+.hijo {
+  background-color: orange;
+  padding: 10px;
+  margin: 10px;
+
+  display: inline-block;
+  width: 25%;
+
+}
